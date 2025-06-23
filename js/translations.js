@@ -19,25 +19,25 @@ const translations = {
     exp1Title: "System Administrator",
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
-      "Bring to the table win‑win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real‑time will have multiple touchpoints for offshoring.",
+      "Ensure continuous operation of server infrastructure and administer networks. Implement security, backup, and monitoring policies to improve IT environment reliability.",
     exp1Dates: "March 2013 - Present",
 
     exp2Title: "Web Developer",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
-      "Leverage agile infrastructures to provide enterprise‑level uptime and performance. Seamlessly orchestrate mission‑critical hardware and software components to deliver end‑to‑end system reliability. Streamline network security protocols and automate routine maintenance to foster operational excellence in hybrid environments.",
+      "Developed and maintained corporate web applications using HTML, CSS, JavaScript, and PHP. Participated in implementing responsive layouts and optimizing site performance.",
     exp2Dates: "December 2011 - March 2013",
 
     exp3Title: "Junior Web Designer",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
-      "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start‑up mentality to derive convergence on cross‑platform integration.",
+      "Created website mockups, prepared graphical content, and adapted designs to technical requirements. Collaborated with developers to integrate the design into the final product.",
     exp3Dates: "July 2010 - December 2011",
 
     exp4Title: "DevOps Engineer",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
-      "Collaboratively administrate empowered markets via plug‑and‑play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
+      "Configured CI/CD processes and automated web application deployments. Worked with monitoring tools and maintained infrastructure based on Linux servers.",
     exp4Dates: "September 2008 - June 2010",
 
     eduSectionHeader: "Education & Certifications",
@@ -136,25 +136,25 @@ const translations = {
     exp1Title: "Системний адміністратор",
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
-      "Розробляю win‑win стратегії виживання для забезпечення проактивного домінування…",
+      "Забезпечую безперебійну роботу серверної інфраструктури та адміністрування мереж. Реалізую політики безпеки, резервного копіювання та моніторингу систем для підвищення надійності ІТ-середовища.",
     exp1Dates: "Березень 2013 - Теперішній час",
 
     exp2Title: "Веб‑розробник",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
-      "Використовую гнучкі інфраструктури для забезпечення корпоративного рівня доступності та продуктивності…",
+      "Розробляв і підтримував корпоративні веб-додатки з використанням HTML, CSS, JavaScript та PHP. Брав участь у впровадженні адаптивної верстки й оптимізації продуктивності сайтів.",
     exp2Dates: "Грудень 2011 - Березень 2013",
 
     exp3Title: "Молодший веб‑дизайнер",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
-      "Організовую управління змінами процесів у робочих потоках для створення єдиної рамки…",
+      "Створював макети сайтів, готував графічний контент і адаптував дизайни під технічні вимоги. Співпрацював із розробниками для інтеграції дизайну у кінцевий продукт.",
     exp3Dates: "Липень 2010 - Грудень 2011",
 
     exp4Title: "DevOps інженер",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
-      "Співпрацюю для адміністрування ринків через plug‑and‑play мережі…",
+      "Налаштовував CI/CD процеси та автоматизував розгортання веб-додатків. Працював з інструментами моніторингу та підтримував інфраструктуру на базі Linux-серверів.",
     exp4Dates: "Вересень 2008 - Червень 2010",
 
     eduSectionHeader: "Освіта та сертифікації",
@@ -253,25 +253,25 @@ const translations = {
     exp1Title: "Системный администратор",
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
-      "Реализую win‑win стратегии выживания для обеспечения проактивного доминирования…",
+      "Обеспечивал бесперебойную работу серверной инфраструктуры и администрирование сетей. Реализовывал политики безопасности, резервного копирования и мониторинга систем для повышения надежности ИТ-среды.",
     exp1Dates: "Март 2013 - Настоящее время",
 
     exp2Title: "Веб‑разработчик",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
-      "Использую гибкие инфраструктуры для обеспечения корпоративного уровня доступности и производительности…",
+      "Разрабатывал и поддерживал корпоративные веб-приложения с использованием HTML, CSS, JavaScript и PHP. Участвовал во внедрении адаптивной верстки и оптимизации производительности сайтов.",
     exp2Dates: "Декабрь 2011 - Март 2013",
 
     exp3Title: "Младший веб‑дизайнер",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
-      "Организую управление изменениями процессов в рабочих потоках для создания единой рамки…",
+      "Создавал макеты сайтов, подготавливал графический контент и адаптировал дизайны под технические требования. Сотрудничал с разработчиками для интеграции дизайна в конечный продукт.",
     exp3Dates: "Июль 2010 - Декабрь 2011",
 
     exp4Title: "DevOps инженер",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
-      "Сотрудничаю для администрирования рынков через plug‑and‑play сети…",
+      "Настраивал процессы CI/CD и автоматизировал развертывание веб-приложений. Работал с инструментами мониторинга и поддерживал инфраструктуру на основе Linux-серверов.",
     exp4Dates: "Сентябрь 2008 - Июнь 2010",
 
     eduSectionHeader: "Образование и сертификаты",
