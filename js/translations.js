@@ -49,6 +49,10 @@ const translations = {
     edu2Institution: "Kherson State University",
     edu2Field: "Software engineering",
     edu2Dates: "September 2023 - October 2027",
+    edu3Degree: "Master's Degree",
+    edu3Institution: "Kherson State University",
+    edu3Field: "Software engineering",
+    edu3Dates: "July 2022 - December 2023",
 
     skillsSectionHeader: "Skills",
     skillsToolsHeader: "Programming Languages & Tools",
@@ -166,6 +170,10 @@ const translations = {
     edu2Institution: "Херсонський державний університет",
     edu2Field: "Програмна інженерія",
     edu2Dates: "Вересень 2023 - Жовтень 2027",
+    edu3Degree: "Магістр",
+    edu3Institution: "Херсонський державний університет",
+    edu3Field: "Програмна інженерія",
+    edu3Dates: "Липень 2022 - Грудень 2023",
 
     skillsSectionHeader: "Навички",
     skillsToolsHeader: "Програмування та інструменти",
@@ -283,6 +291,10 @@ const translations = {
     edu2Institution: "Херсонский государственный университет",
     edu2Field: "Программная инженерия",
     edu2Dates: "Сентябрь 2023 - Октябрь 2027",
+    edu3Degree: "Магистр",
+    edu3Institution: "Херсонский государственный университет",
+    edu3Field: "Программная инженерия",
+    edu3Dates: "Июль 2022 - Декабрь 2023",
 
     skillsSectionHeader: "Навыки",
     skillsToolsHeader: "Программирование и инструменты",
