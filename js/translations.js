@@ -20,25 +20,25 @@ const translations = {
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
       "Bring to the table win‑win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real‑time will have multiple touchpoints for offshoring.",
-    exp1Dates: "March 2013 - Present",
+    exp1Dates: "September 2019 - May 2022",
 
     exp2Title: "Web Developer",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
       "Leverage agile infrastructures to provide enterprise‑level uptime and performance. Seamlessly orchestrate mission‑critical hardware and software components to deliver end‑to‑end system reliability. Streamline network security protocols and automate routine maintenance to foster operational excellence in hybrid environments.",
-    exp2Dates: "December 2011 - March 2013",
+    exp2Dates: "March 2022 - Present",
 
     exp3Title: "Junior Web Designer",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
       "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start‑up mentality to derive convergence on cross‑platform integration.",
-    exp3Dates: "July 2010 - December 2011",
+    exp3Dates: "July 2017 - December 2017",
 
     exp4Title: "DevOps Engineer",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
       "Collaboratively administrate empowered markets via plug‑and‑play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
-    exp4Dates: "September 2008 - June 2010",
+    exp4Dates: "September 2018 - June 2019",
 
     eduSectionHeader: "Education & Certifications",
     edu1Degree: "Master of Science",
@@ -136,26 +136,26 @@ const translations = {
     exp1Title: "Системний адміністратор",
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
-      "Розробляю win‑win стратегії виживання для забезпечення проактивного домінування…",
-    exp1Dates: "Березень 2013 - Теперішній час",
+      "Забезпечую безперебійну роботу серверної інфраструктури та адміністрування мереж. Реалізую політики безпеки, резервного копіювання та моніторингу систем для підвищення надійності ІТ-середовища.",
+    exp1Dates: "Вересень 2019 - Травень 2022",
 
     exp2Title: "Веб‑розробник",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
-      "Використовую гнучкі інфраструктури для забезпечення корпоративного рівня доступності та продуктивності…",
-    exp2Dates: "Грудень 2011 - Березень 2013",
+      "Розробляв і підтримував корпоративні веб-додатки з використанням HTML, CSS, JavaScript та Python. Брав участь у впровадженні адаптивної верстки й оптимізації продуктивності сайтів.",
+    exp2Dates: "Березень 2022 - Теперішній час",
 
     exp3Title: "Молодший веб‑дизайнер",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
-      "Організовую управління змінами процесів у робочих потоках для створення єдиної рамки…",
-    exp3Dates: "Липень 2010 - Грудень 2011",
+      "Створював макети сайтів, готував графічний контент і адаптував дизайни під технічні вимоги. Співпрацював із розробниками для інтеграції дизайну у кінцевий продукт.",
+    exp3Dates: "Липень 2017 - Грудень 2017",
 
     exp4Title: "DevOps інженер",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
-      "Співпрацюю для адміністрування ринків через plug‑and‑play мережі…",
-    exp4Dates: "Вересень 2008 - Червень 2010",
+      "Налаштовував CI/CD процеси та автоматизував розгортання веб-додатків. Працював з інструментами моніторингу та підтримував інфраструктуру на базі Linux-серверів.",
+    exp4Dates: "Вересень 2018 - Червень 2019",
 
     eduSectionHeader: "Освіта та сертифікації",
     edu1Degree: "Магістр наук",
@@ -254,25 +254,25 @@ const translations = {
     exp1Company: "NextGen IT Solutions",
     exp1Desc:
       "Реализую win‑win стратегии выживания для обеспечения проактивного доминирования…",
-    exp1Dates: "Март 2013 - Настоящее время",
+    exp1Dates: "Сентябрь 2019 - Май 2022",
 
     exp2Title: "Веб‑разработчик",
     exp2Company: "Intelitec Solutions",
     exp2Desc:
       "Использую гибкие инфраструктуры для обеспечения корпоративного уровня доступности и производительности…",
-    exp2Dates: "Декабрь 2011 - Март 2013",
+    exp2Dates: "Март 2022 - Настоящее время",
 
     exp3Title: "Младший веб‑дизайнер",
     exp3Company: "Shout! Media Productions",
     exp3Desc:
       "Организую управление изменениями процессов в рабочих потоках для создания единой рамки…",
-    exp3Dates: "Июль 2010 - Декабрь 2011",
+    exp3Dates: "Июль 2017 - Декабрь 2017",
 
     exp4Title: "DevOps инженер",
     exp4Company: "Shout! Media Productions",
     exp4Desc:
       "Сотрудничаю для администрирования рынков через plug‑and‑play сети…",
-    exp4Dates: "Сентябрь 2008 - Июнь 2010",
+    exp4Dates: "Сентябрь 2018 - Июнь 2019",
 
     eduSectionHeader: "Образование и сертификаты",
     edu1Degree: "Магистр наук",
