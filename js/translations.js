@@ -41,7 +41,7 @@ const translations = {
     exp4Dates: "September 2018 - June 2019",
 
     eduSectionHeader: "Education & Certifications",
-    edu1Degree: "Master of Science",
+    edu1Degree: "Master's Degree",
     edu1Institution: "Kherson State University",
     edu1Field: "Computer Science - Information Technology",
     edu1Dates: "August 2020 - December 2021",
@@ -158,7 +158,7 @@ const translations = {
     exp4Dates: "Вересень 2018 - Червень 2019",
 
     eduSectionHeader: "Освіта та сертифікації",
-    edu1Degree: "Магістр наук",
+    edu1Degree: "Магістр",
     edu1Institution: "Херсонський державний університет",
     edu1Field: "Комп’ютерні науки - інформаційні технології",
     edu1Dates: "Серпень 2020 - Грудень 2021",
@@ -275,7 +275,7 @@ const translations = {
     exp4Dates: "Сентябрь 2018 - Июнь 2019",
 
     eduSectionHeader: "Образование и сертификаты",
-    edu1Degree: "Магистр наук",
+    edu1Degree: "Магистр",
     edu1Institution: "Херсонский государственный университет",
     edu1Field: "Компьютерные науки - информационные технологии",
     edu1Dates: "Август 2020 - Декабрь 2021",
